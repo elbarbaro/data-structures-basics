@@ -17,3 +17,5 @@ print(groceries)
 
 for grocery in groceries:
 	print(grocery)
+
+print('Pedro estuvo aqui')
