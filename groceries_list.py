@@ -14,3 +14,6 @@ for count in range(MAX_ITEMS):
 
 print('Tu mandado quedó: ')
 print(groceries)
+
+for grocery in groceries:
+	print(grocery)
